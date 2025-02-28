@@ -1,7 +1,6 @@
 ___________________________
 
-![telegram-cloud-photo-size-2-5336850410264192688-x](https://github.com/user-attachments/assets/6cd61282-6f80-4a37-8559-c627528e61ff)
-
+<img src="https://github.com/user-attachments/assets/6cd61282-6f80-4a37-8559-c627528e61ff" width="200" height="200">
 
 ____________________________
 
