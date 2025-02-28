@@ -1,6 +1,6 @@
 ___________________________
 
-![image](https://github.com/user-attachments/assets/266eb515-7f07-4b62-b117-65d7a4d0e692)
+![telegram-cloud-photo-size-2-5336850410264192688-x](https://github.com/user-attachments/assets/6cd61282-6f80-4a37-8559-c627528e61ff)
 
 
 ____________________________
