@@ -5,25 +5,19 @@ ___________________________
 ____________________________
 
 ## Information
-
+- **Senior Go Software Engineer • 7+ years of experience • Goland • Kafka • Cloud & Microservices * Web3**
 - **Name:** [Artem Alekseev](https://www.linkedin.com/in/aealeks3010/)
 - **Email:** artem.alekseev.e@gmail.com
-- **Phone:**
 - **LinkedIn:** https://www.linkedin.com/in/aealeks3010/
 - **GitHub:** https://github.com/artem3010
 
 ______________________________
-
 ## Professional Summary
-
-Senior Golang Developer, 7+ years of experience.
-
 Experienced **Senior GO Backend Developer** with expertise in **Golang, cloud infrastructure and distributed systems**.
 Proven track record in optimizing **high-load microservices**, improving **security models**. Passionate about building
 scalable platforms and enhancing system reliability.
 
 ## Skills
-
 - **IT** - 7+ years
 - **Go** - 5+ years
 - **Cloud** (AWS, GCP, Heroku) - 5+ years
@@ -43,11 +37,8 @@ scalable platforms and enhancing system reliability.
 - **Agile / Scrum / Kanban**
 
 ---
-
 ## Experience
-
 ### Avito
-
 **Senior Golang Developer**  
 **2022-04 – Present**  
 **Skills :** Go, PostgreSQL, Clickhouse, DWH, Kafka, Kubernetes, Microservices, Load Testing, API Design, Security,
@@ -59,7 +50,6 @@ developed a platform for creating new types of profiles in “as a service” pa
 rpm ~2kk).
 
 **Responsibilities & Achievements:**
-
 - **Developed a system of types for profile fields**
     - Allows creating new types based on basic types (string, number, list, structure) and applying different
       constraints (e.g., length limit or regexp matching, null check) by configs.
@@ -89,7 +79,6 @@ rpm ~2kk).
 ---
 
 ### Gaskar Group
-
 **Senior Golang Developer**  
 **2020-04 – 2022-04**  
 **Skills:** Go, RabbitMQ, MongoDB, PostgreSQL, Redis, Keycloak, Kubernetes
@@ -100,7 +89,6 @@ microservice environment (40+ services). Started working inside core-team (inter
 other teams) then transitioned into working across nearly every service.
 
 **Responsibilities & Achievements:**
-
 - Acted as **Tech Lead** on payments service for contractors outside the company: domain expert, coordianted work of
   developers, kept track of deadlines, wrote documentation
 - As part of **core-team** made several improvments in tooling:
@@ -117,15 +105,12 @@ other teams) then transitioned into working across nearly every service.
 ---
 
 ### Project NDA Crypto Trading
-
 **Software Engineer**  
 **2022-06 – 2022-11**
-
 **Skills Applied:** Go, High-Load Systems, API Reverse Engineering, Proxy Servers, GitLab CI/CD, Performance
 Optimization
 
 **Responsibilities & Achievements:**
-
 - Developed **high-load proxy servers** (rate limiters) for various exchanges.
 - Reverse-engineered **crypto exchange APIs**, optimizing **trading algorithms**.
 - Automated deployments via **GitLab CI/CD**, improving reliability and reducing downtime.
@@ -133,7 +118,6 @@ Optimization
 ---
 
 ### Business Logic
-
 **Golang Developer**  
 **2018-02 – 2020-04**  
 **Technologies:** Go, PostgreSQL, Kafka, JavaScript, Cucumber/Godog/Gherkin, CI/CD
@@ -149,7 +133,6 @@ Optimization
 ---
 
 ## Education
-
 - **Bachelor's degree, Computer and Information Systems Security/Information AssuranceBachelor's degree, Computer and
   Information Systems Security/Information Assurance**  
   **USATU (Ufa State Aviation Technical University)**  
