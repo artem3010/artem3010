@@ -1,22 +1,14 @@
-___________________________
-
+---
 <img src="https://github.com/user-attachments/assets/6cd61282-6f80-4a37-8559-c627528e61ff" width="200" height="200">
 
-____________________________
-
+---
 ## Information
 - **Senior Go Software Engineer • 7+ years of experience • Goland • Kafka • Cloud & Microservices * Web3**
 - **Name:** [Artem Alekseev](https://www.linkedin.com/in/aealeks3010/)
 - **Email:** artem.alekseev.e@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/aealeks3010/
 - **GitHub:** https://github.com/artem3010
-
-______________________________
-## Professional Summary
-Experienced **Senior GO Backend Developer** with expertise in **Golang, cloud infrastructure and distributed systems**.
-Proven track record in optimizing **high-load microservices**, improving **security models**. Passionate about building
-scalable platforms and enhancing system reliability.
-
+---
 ## Skills
 - **IT** - 7+ years
 - **Go** - 5+ years
