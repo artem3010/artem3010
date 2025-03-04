@@ -4,7 +4,7 @@
 
 ---
 ## Information
-- **Senior Go Software Engineer • 7+ years of experience • Goland • Kafka • Cloud & Microservices * Web3**
+- **Senior Go Software Engineer • 7+ years of experience • Goland • Kafka • Cloud & Microservices • Web3**
 - **Name:** [Artem Alekseev](https://www.linkedin.com/in/aealeks3010/)
 - **Email:** artem.alekseev.e@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/aealeks3010/
