@@ -42,30 +42,31 @@ rpm ~2kk).
 
 **Responsibilities & Achievements:**
 - **Developed a system of types for profile fields**
-    - Allows creating new types based on basic types (string, number, list, structure) and applying different
-      constraints (e.g., length limit or regexp matching, null check) by configs.
-    - Reduced TTM for adding a new profile field from **~2 weeks to ~15 minutes**
+  -	Allows creating new types based on basic types (string, number, list, structure).
+  -	Allows creating dynamic widgets with these fields.
+  -	Developed the ability to apply different constraints (e.g., length limit, regex matching, null check).
+  -	Reduced TTM for adding a new profile field from **~2 weeks to ~15 minutes**.
 
 - **Load Testing**
-    - **Conducted load testing** of services to identify optimal service configurations for improving performance and
-      reliability.
+  - Conducted load testing of services using Yandex.Tank to identify optimal service configurations for improving performance and reliability.
+  -	Tested services in different environments (isolated/prod).
 
 - **Integrated flexible moderation for profile fields**
-    - Integrated a moderation system to support various data types across multiple datasets in different profile types.
-    - Reduced TTM for connecting moderation for a new profile type/new profile fields **from ~3 weeks to ~2 days**
+  - Integrated a moderation system to support various data types across multiple datasets in different profile types.
+  - Reduced TTM for connecting moderation for a new profile type/new profile fields **from ~3 weeks to ~2 days**
 
 - **Information security**
-    - Created a threat model for unit services for further vulnerability audits.
-    - Conducted vulnerability audits and risk assessments for services.
-    - Created a checklist for grooming to check feature security.
-    - Improved service security and team awareness about information security.
+  - Created a threat model for unit services for further vulnerability audits.
+  - Conducted vulnerability audits and risk assessments for services.
+  - Created a checklist for grooming to check feature security.
+  - Improved service security and team awareness about information security.
 
 - **Performed the role of technical on-call**
-    - Resolved bugs that required immediate intervention.
-    - Conducted research to solve bugs.
-    - Increased test coverage of services.
-    - Acted as L3 technical support.
-    - Performed work to maintain SLI of services.
+  - Resolved bugs that required immediate intervention.
+  - Conducted research to solve bugs.
+  - Increased test coverage of services.
+  - Acted as L3 technical support.
+  - Performed work to maintain SLI of services.
 
 ---
 
