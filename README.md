@@ -96,11 +96,12 @@ other teams) then transitioned into working across nearly every service.
 ---
 
 ### Project NDA Crypto Trading
+
 **Software Engineer**
+
 **2022-06 – 2022-11**
 
-**Skills:** Go, High-Load Systems, API Reverse Engineering, Proxy Servers, GitLab CI/CD, Performance
-Optimization
+**Skills:** Go, High-Load Systems, API Reverse Engineering, Proxy Servers, GitLab CI/CD, Performance Optimization
 
 **Responsibilities & Achievements:**
 - Developed **high-load proxy servers** (rate limiters) for various exchanges.
