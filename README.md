@@ -36,8 +36,8 @@
 **Skills:** Go, PostgreSQL, Clickhouse, DWH, Kafka, Kubernetes, Microservices, Load Testing, API Design, Security
 
 **Overview:** Avito is the most visited classifieds site in the world (DAU 24.9kk). The company has 1300+ engineers and
-100+ product teams. I worked in a microservices environment (3000+ microservices). I was in the platform core team,
-developed a platform for creating new types of profiles in “as a service” paradigm, and maintained existing services (
+100+ product teams. I am working in a microservices environment (3000+ microservices). I am in the platform core team,
+developing a platform for creating new types of profiles in “as a service” paradigm, and maintaining existing services (
 rpm ~2kk).
 
 **Responsibilities & Achievements:**
