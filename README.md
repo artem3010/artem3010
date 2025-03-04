@@ -11,8 +11,7 @@
 - **GitHub:** https://github.com/artem3010
 ---
 ## Skills
-- **IT** - 7+ years
-- **Go** - 5+ years
+- **Go** - 7+ years
 - **Cloud** (AWS, GCP, Heroku) - 5+ years
 - **Keycloak / OAuth / JWT**
 - **Docker / Docker Compose / Kubernetes / Helm / Terraform / Jenkins / Teamcity / GitHub Actions / Gitlab CI/CD**
