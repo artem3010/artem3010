@@ -12,6 +12,7 @@
 ---
 ## Skills
 - **Go** - 7+ years
+- **JavaScript/React** - 2 years
 - **Cloud** (AWS, GCP, Heroku) - 5+ years
 - **Keycloak / OAuth / JWT**
 - **Docker / Docker Compose / Kubernetes / Helm / Terraform / Jenkins / Teamcity / GitHub Actions / Gitlab CI/CD**
