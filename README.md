@@ -9,6 +9,7 @@
 - **Email:** artem.alekseev.e@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/aealeks3010/
 - **GitHub:** https://github.com/artem3010
+- **Telegram:** @ArtemAlekseevE
 ---
 ## Skills
 - **Go** - 7+ years
