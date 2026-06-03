@@ -34,7 +34,7 @@
 ## Experience
 ### Avito
 **Senior Golang Developer**  
-**2022-04 – Present**  
+**2023-07 – Present**  
 **Skills:** Go, PostgreSQL, Clickhouse, DWH, Kafka, Kubernetes, Microservices, Load Testing, API Design, Security
 
 **Overview:** Avito is the most visited classifieds site in the world (DAU 24.9kk). The company has 1300+ engineers and
@@ -72,6 +72,21 @@ rpm ~2kk).
 
 ---
 
+### Project NDA Crypto Trading
+
+**Software Engineer (Go)**
+
+**2022-06 – 2023-07**
+
+**Skills:** Go, High-Load Systems, API Reverse Engineering, Proxy Servers, GitLab CI/CD, Performance Optimization
+
+**Responsibilities & Achievements:**
+- Developed **high-load proxy servers** (rate limiters) for various exchanges.
+- Reverse-engineered **crypto exchange APIs**, optimizing **trading algorithms**.
+- Automated deployments via **GitLab CI/CD**, improving reliability and reducing downtime.
+
+---
+
 ### Gaskar Group
 **Senior Golang Developer**  
 **2020-04 – 2022-04**  
@@ -98,24 +113,9 @@ other teams) then transitioned into working across nearly every service.
 
 ---
 
-### Project NDA Crypto Trading
-
-**Software Engineer**
-
-**2022-06 – 2022-11**
-
-**Skills:** Go, High-Load Systems, API Reverse Engineering, Proxy Servers, GitLab CI/CD, Performance Optimization
-
-**Responsibilities & Achievements:**
-- Developed **high-load proxy servers** (rate limiters) for various exchanges.
-- Reverse-engineered **crypto exchange APIs**, optimizing **trading algorithms**.
-- Automated deployments via **GitLab CI/CD**, improving reliability and reducing downtime.
-
----
-
 ### Business Logic
-**Golang Developer**  
-**2018-02 – 2020-04**  
+**Go Developer**  
+**2018-02 – 2020-05**  
 **Skills:** Go, PostgreSQL, Kafka, JavaScript, Cucumber/Godog/Gherkin, CI/CD
 
 **Overview:** Developed a **CRM system** for large enterprises with **40k-50k daily active users**.
